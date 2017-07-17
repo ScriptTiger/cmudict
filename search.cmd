@@ -54,9 +54,9 @@ goto search
 set /p search=Search what sound? || goto 0
 set search=%search: =.%
 if "%search:~,1%"=="$" (
-set search=%find% "^[a-z][a-z]*[^a-z,-]%search:~1%" "%cmudict%"
+set search=%find% "^[a-z][a-z]*[^a-z,',-]%search:~1%" "%cmudict%"
 ) else (
-set search=%find% "^[a-z][a-z]*[^a-z,-].*%search%" "%cmudict%"
+set search=%find% "^[a-z][a-z]*[^a-z,',-].*%search%" "%cmudict%"
 )
 goto search
 
