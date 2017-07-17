@@ -1,4 +1,8 @@
 @echo off
+title ScriptTiger CMU Dictionary Search
+echo ScriptTiger CMU Dictionary Search
+echo Copyright (c) 2017 ScriptTiger
+echo.
 goto skip_license
 
 MIT License
