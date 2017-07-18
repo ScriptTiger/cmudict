@@ -1,5 +1,5 @@
 # cmudict
-Search scripts for the cmudict
+Search scripts for the cmudict.
 
 Windows:  search.cmd
 
