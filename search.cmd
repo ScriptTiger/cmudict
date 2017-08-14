@@ -1,4 +1,12 @@
 @echo off
+
+rem =====
+rem For more information on ScriptTiger and more ScriptTiger scripts visit the following URL:
+rem https://scripttiger.github.io/
+rem Or visit the following URL for the latest information on this ScriptTiger script:
+rem https://github.com/ScriptTiger/cmudict
+rem =====
+
 title ScriptTiger CMU Dictionary Search
 echo ScriptTiger CMU Dictionary Search
 echo Copyright (c) 2017 ScriptTiger
