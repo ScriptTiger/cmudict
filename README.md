@@ -1,12 +1,8 @@
 # cmudict
 Search scripts for the cmudict.
 
-Search.cmd:
+You can download this repo from the below link to get started:  
+https://github.com/ScriptTiger/cmudict/archive/master.zip
 
-https://raw.githubusercontent.com/ScriptTiger/cmudict/master/search.cmd
-
-Save the above link to your computer, along with both of the below links in the same directory.
-
-These scripts require the following files to be downloaded and present in the same directory:
-https://raw.githubusercontent.com/cmusphinx/cmudict/master/cmudict.dict
-https://raw.githubusercontent.com/cmusphinx/cmudict/master/cmudict.phones
+This repo is only the search script and you must combine the contents of this repo with the cmudict for it to work properly:  
+https://github.com/cmusphinx/cmudict/archive/master.zip
