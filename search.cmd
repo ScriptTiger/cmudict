@@ -9,7 +9,7 @@ rem =====
 
 title ScriptTiger CMU Dictionary Search
 echo ScriptTiger CMU Dictionary Search
-echo Copyright (c) 2017 ScriptTiger
+echo Copyright (c) 2019 ScriptTiger
 echo.
 goto skip_license
 
