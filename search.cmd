@@ -9,13 +9,13 @@ rem =====
 
 title ScriptTiger CMU Dictionary Search
 echo ScriptTiger CMU Dictionary Search
-echo Copyright (c) 2019 ScriptTiger
+echo Copyright (c) 2020 ScriptTiger
 echo.
 goto skip_license
 
 MIT License
 
-Copyright (c) 2019 ScriptTiger
+Copyright (c) 2020 ScriptTiger
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
